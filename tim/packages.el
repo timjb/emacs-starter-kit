@@ -4,7 +4,7 @@
                           'haskell-mode
                           'slime
                           'color-theme
-                          'color-theme-solarized
+                          ;;'color-theme-solarized
                           'relax)
   "Packages that I need.")
 
