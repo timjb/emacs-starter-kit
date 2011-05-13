@@ -4,6 +4,7 @@
                           'haskell-mode
                           'slime
                           'color-theme
+                          'yasnippet-bundle
                           ;;'color-theme-solarized
                           'relax)
   "Packages that I need.")
